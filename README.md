@@ -6,10 +6,9 @@ This note is made for my students to prepare for their basic `SQL` and `POSTGRES
 **Table of contents**
 
 1. [Introduction to Database management System](course/c01-introduction/)
-     - 1.1. Fundamentals of DBMS
-     - 1.2. DBMS Architecture
-     - 1.3. Creating a database
-     - 1.4. Accessing a database
+   - [1.1. Database Management System](#11-database-management-system)
+   - [1.2. Relational Database Management System (RDBMS)](#12-relational-database-management-system-rdbms)
+   - [1.3. Features of RDBMS](#13-features-of-rdbms)
 
 2. [Basic Data Types](course/c02-data-types/)
     - 2.1. Numeric data types
